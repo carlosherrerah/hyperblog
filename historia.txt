@@ -2,4 +2,5 @@ historia.txt
 Esta es la historia
 de mi amigo
 
-Hoy hablaremos de su vida
+Hoy hablaremos de su vida y obra maestra
+
